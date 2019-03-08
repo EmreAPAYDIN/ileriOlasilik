@@ -50,3 +50,4 @@ while 1:
  elinizde kaç kart var? :-5
  0-52 arasında değer giriniz
 
+Kaynak kod için:pigeonhole_algorithm.py
