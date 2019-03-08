@@ -1,4 +1,9 @@
 = GÜVERCİN YUVASI ALGORİTMASI 
-== If you pick five cards from a standard deck of 52 cards, then at least two will be of the same suit.
+== Problem:
+Standart 52 karttan oluşan bir iskambil destesinden 5 kart alırsak,en az iki tanesi aynı türden kart olacaktır.Bu durumun güvercin yuvası prensibine göre ıspatının yapılması.
 
-Each of the five cards can belong to one of four suits. By the pigeonhole principle, two or more must belong to the same suit.
+Kart türleri;kupa,karo,maça,sinek
+== Çözüm:
+5 kartın her biri dört kart türünden birine aittir.Güvercin yuvası prensibine göre,iki yada daha fazla kart aynı kart türüne ait olacaktır.
+
+
