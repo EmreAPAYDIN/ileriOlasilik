@@ -1,0 +1,4 @@
+= GÜVERCİN YUVASI ALGORİTMASI 
+== If you pick five cards from a standard deck of 52 cards, then at least two will be of the same suit.
+
+Each of the five cards can belong to one of four suits. By the pigeonhole principle, two or more must belong to the same suit.
