@@ -1,4 +1,4 @@
-# ileriOlasilik
+= İleri Olasılık
 
-* aaa
-* jjj
+BLM517 Ayrık Sistemler İçin İleri Olasılık
+
