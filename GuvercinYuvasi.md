@@ -15,7 +15,7 @@ Kaynak kodlar aşağıdaki gibidir.
 Güvercin yasası prensbinin genel formülü gereği yuvalara düşecek ortalama değer bulunur.Ortalama değer güvercin/element sayısının yuvalara  bölünmesi elde edilir.ortalama değer daha sonra yukarı yuvarlanır.Aşağıda bu işlemi yapan fonksiyon yazılmıştır.Bizi problemimiz için en az 5 kart gerekmektedir.Bunun da kontrolü yapılmıştır.
 
 ```
-[source.py]
+[pigeonhole_algorithm.py]
 
 import math
 def pigeonhole_sort(k): 
@@ -30,7 +30,8 @@ def pigeonhole_sort(k):
 Aşağıdaki kodlarda ise kullanıcıdan parametre olarak kart sayısını alıp fonksiyona işlemesi için gönderilmiştir.Kullanıcın 52 karta uygun değer girmesi zorunlu tutulmuştur.
 
 ```
-[source.py]
+[pigeonhole_algorithm.py]
+
 while 1:
     k = int (input("elinizde kaç kart var? :"))
     if k<0 or k>52 :
