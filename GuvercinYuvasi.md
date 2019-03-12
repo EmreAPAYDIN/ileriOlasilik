@@ -25,7 +25,7 @@ def pigeonhole_sort(k):
     else:
        print("bu ispat için en az 5 kart gerekmektedir!!!") 
    
-    ```
+ ```
    
 Aşağıdaki kodlarda ise kullanıcıdan parametre olarak kart sayısını alıp fonksiyona işlemesi için gönderilmiştir.Kullanıcın 52 karta uygun değer girmesi zorunlu tutulmuştur.
 
