@@ -1,12 +1,12 @@
-= GÜVERCİN YUVASI ALGORİTMASI 
+# GÜVERCİN YUVASI ALGORİTMASI 
 
-== Problem:
+## Problem:
 
 Standart 52 karttan oluşan bir iskambil destesinden 5 kart alırsak,en az iki tanesi aynı türden kart olacaktır.Bu durumun güvercin yuvası prensibine göre ıspatının yapılması.
 
 Kart türleri;kupa,karo,maça,sinek
 
-== Çözüm:
+## Çözüm:
 
 5 kartın her biri dört kart türünden birine aittir.Güvercin yuvası prensibine göre,iki yada daha fazla kart aynı kart türüne ait olacaktır.
 
