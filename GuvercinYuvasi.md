@@ -29,6 +29,7 @@ def pigeonhole_sort(k):
    
 Aşağıdaki kodlarda ise kullanıcıdan parametre olarak kart sayısını alıp fonksiyona işlemesi için gönderilmiştir.Kullanıcın 52 karta uygun değer girmesi zorunlu tutulmuştur.
 
+```
 [source.py]
 while 1:
     k = int (input("elinizde kaç kart var? :"))
@@ -38,7 +39,7 @@ while 1:
         print("Aynı türden kağıt sayısı:", end = ' ') 
         b=pigeonhole_sort(k)     
         print(b)
-        
+ ```      
 Örnek ekran çıktısı:
 
  elinizde kaç kart var? :5
