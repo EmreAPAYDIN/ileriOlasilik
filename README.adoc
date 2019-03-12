@@ -1,5 +1,0 @@
-= İleri Olasılık
-
-BLM517 Ayrık Sistemler İçin İleri Olasılık
-
-link:GuvercinYuvasi.md[Hafta-1 Güvercin Yuvası Prensibi]
