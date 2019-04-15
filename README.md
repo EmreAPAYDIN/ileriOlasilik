@@ -6,4 +6,4 @@
 
 [Hafta-2 Permütasyon Kombinasyon](Permutasyon_Kombinsayon.ipynb)
 
-[Hafta-3 Bayes Teoremi](BayesTeoremi.ipynb)
+[Hafta-3 Bayes Teoremi](BayesTheorem.ipynb)
