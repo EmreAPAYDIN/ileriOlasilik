@@ -7,3 +7,5 @@
 [Ödev-2 Permütasyon Kombinasyon](Permutasyon_Kombinsayon.ipynb)
 
 [Ödev-3 Bayes Teoremi](BayesTheorem.ipynb)
+
+[Ödev-4 Olasılık Kütle Fonksiyonu](OlasilikKutleFonksiyonu.ipynb)
