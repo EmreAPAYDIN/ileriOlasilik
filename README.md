@@ -9,3 +9,5 @@
 [Ödev-3 Bayes Teoremi](BayesTheorem.ipynb)
 
 [Ödev-4 Olasılık Kütle Fonksiyonu](OlasilikKutleFonksiyonu.ipynb)
+
+[Ödev-5 Varyans-Bernoulli-Binomial](Varyans_Bernoulli_Binomial.ipynb)
